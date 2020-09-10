@@ -1,4 +1,4 @@
-## [AnyDLBot](https://telegram.dog/AnyDLBot) - Clone
+## https://t.me/ITAStreaming
 ---
 
 An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
@@ -26,8 +26,6 @@ cp sample_config.py config.py
 python bot.py
 ```
 
-- For FeedBack and Suggestions, please feel free to say in [@InFoTelGroup](https://telegram.dog/InFoTelGroup)
-- Updates [@TGBotsZ](https://telegram.dog/TGBotsZ)
 
 #### LICENSE
 - GPLv3
